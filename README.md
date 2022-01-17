@@ -1,4 +1,4 @@
-#Check Out Site!   
+# Check Out Site!   
 https://ege-games.herokuapp.com/   
 
 # Getting Started with Create React App
